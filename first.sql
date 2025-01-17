@@ -1,1 +1,1 @@
-select * from transcation
+select * from transcation;
